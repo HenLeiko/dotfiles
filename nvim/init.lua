@@ -1,0 +1,5 @@
+require('base/settings')
+require('keys/main')
+require('plugins/packer_install')
+require('plugins/treesitter')
+--require('plugins/lualine')
